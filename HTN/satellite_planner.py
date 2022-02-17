@@ -75,7 +75,6 @@ def get_calibrator(state, instrument):
 
 ## WRITE ADDITIONAL METHODS HERE ##
 
-# Use python .\satellite\satellite_planner.py -s:2 -v:3 .\satellite\strips_sat_x_1_6.py format to run tests
 def make_satellite_planner():
     planner = Planner()
     planner.declare_operators(calibrate, switch_off, switch_on, take_image, turn_to)

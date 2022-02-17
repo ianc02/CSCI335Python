@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="647e8cc5-75ab-4934-aa37-029d8153a7ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Science.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite/.idea/satellite_anyhop_domain.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite/satellite.py" beforeDir="false" afterPath="$PROJECT_DIR$/satellite/satellite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite/satellite_planner.py" beforeDir="false" afterPath="$PROJECT_DIR$/satellite/satellite_planner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite_planner.py" beforeDir="false" afterPath="$PROJECT_DIR$/satellite_planner.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../satellite" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ian\GitHub\AI\Python\CSCI335Python\HTN" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Science" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -81,21 +80,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1645085997921" />
-    <state width="1346" height="179" key="GridCell.Tab.0.bottom" timestamp="1645085832425">
+    <state width="1346" height="179" key="GridCell.Tab.0.bottom" timestamp="1645086657580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1645085832425" />
-    <state width="1346" height="179" key="GridCell.Tab.0.center" timestamp="1645085832425">
+    <state width="1346" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1645086657580" />
+    <state width="1346" height="179" key="GridCell.Tab.0.center" timestamp="1645086657580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1645085832425" />
-    <state width="1346" height="179" key="GridCell.Tab.0.left" timestamp="1645085832425">
+    <state width="1346" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1645086657580" />
+    <state width="1346" height="179" key="GridCell.Tab.0.left" timestamp="1645086657580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1645085832425" />
-    <state width="1346" height="179" key="GridCell.Tab.0.right" timestamp="1645085832425">
+    <state width="1346" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1645086657580" />
+    <state width="1346" height="179" key="GridCell.Tab.0.right" timestamp="1645086657580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1645085832425" />
+    <state width="1346" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1645086657580" />
   </component>
 </project>
